@@ -5,8 +5,8 @@ from layouts.datos_layout import layout as datos_layout
 # Inicialización de la aplicación
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
-# Configuración del layout
-app.layout = datos_layout()
+# Configuración del layout (sin invocar como función)
+app.layout = datos_layout
 
 # Registrar los callbacks
 from callbacks.datos_callbacks import update_content
