@@ -1,0 +1,46 @@
+|-- .gitignore
+|-- README.md
+|-- app.py
+|-- assets
+|-- callbacks
+    |-- datos_callbacks.py
+|-- components
+    |-- benchmark_components.py
+    |-- common.py
+    |-- eda_components.py
+    |-- implementation_components.py
+    |-- navbar.py
+    |-- optimization_components.py
+    |-- risk_components.py
+|-- data
+    |-- inputs
+    |-- outputs
+        |-- .~lock.tickers.csv#
+        |-- prices.csv
+        |-- tickers.csv
+|-- layouts
+    |-- benchmark_layout.py
+    |-- datos_layout.py
+    |-- eda_layout.py
+    |-- implementation_layout.py
+    |-- intro_section.py
+    |-- main_layout.py
+    |-- optimization_layout.py
+    |-- risk_layout.py
+|-- pages
+    |-- datos.py
+|-- procfile
+|-- requirements.txt
+|-- scripts
+    |-- prices.py
+    |-- tickers.py
+|-- tests
+    |-- test_data_loader.py
+    |-- test_optimization.py
+|-- utils
+    |-- benchmarking.py
+    |-- data_loader.py
+    |-- eda_tools.py
+    |-- implementation_tools.py
+    |-- optimization.py
+    |-- risk_analysis.py

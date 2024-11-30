@@ -1,6 +1,6 @@
 from dash import Input, Output, callback
 import pandas as pd
-import dash_html_components as html
+from dash import html
 
 # Carga de datos
 data_path = "./data/outputs/tickers.csv"
