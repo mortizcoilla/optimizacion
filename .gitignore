@@ -1,0 +1,28 @@
+# Excluir configuraciones específicas de VS Code
+.vscode/
+
+# Excluir entornos virtuales
+venv/
+env/
+
+# Excluir archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Excluir checkpoints de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Excluir archivos de salida temporales o innecesarios
+*.log
+*.tmp
+*.out
+
+# Excluir configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Excluir configuraciones de entorno específicas
+.env
+*.env

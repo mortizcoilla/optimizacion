@@ -1,0 +1,101 @@
+Ticker,Nombre completo,Sector,Industria
+AGUAS-A,Aguas Andinas,Utilities,Utilities - Regulated Water
+ANDINA-B,Embotelladora Andina,Consumer Defensive,Beverages - Non-Alcoholic
+CAP,CAP,Basic Materials,Steel
+CCU,Compañía Cervecerías Unidas,Consumer Defensive,Beverages - Brewers
+CENCOSUD,Cencosud,Consumer Cyclical,Department Stores
+CMPC,Empresas CMPC,Basic Materials,Paper & Paper Products
+COLBUN,Colbún,Utilities,Utilities - Regulated Electric
+CONCHATORO,Viña Concha y Toro,Consumer Defensive,Beverages - Wineries & Distilleries
+COPEC,Empresas Copec,Industrials,Conglomerates
+ENELAM,Enel Américas,Utilities,Utilities - Regulated Electric
+ENELCHILE,Enel Chile,Utilities,Utilities - Regulated Electric
+ENTEL,Empresa Nacional de Telecomunicaciones,Communication Services,Telecom Services
+FALABELLA,Falabella,Consumer Cyclical,Department Stores
+IAM,Inversiones Aguas Metropolitanas,Utilities,Utilities - Regulated Water
+LTM,LATAM Airlines Group,Industrials,Airlines
+MALLPLAZA,Plaza,Real Estate,Real Estate Services
+PARAUCO,Parque Arauco,Real Estate,Real Estate - Diversified
+QUINENCO,Quiñenco,Energy,Oil & Gas Refining & Marketing
+RIPLEY,Ripley Corp,Consumer Cyclical,Department Stores
+SMU,SMU,Consumer Cyclical,Department Stores
+SQM-B,Sociedad Química y Minera de Chile,Basic Materials,Specialty Chemicals
+VAPORES,Compañía Sud Americana de Vapores,Industrials,Marine Shipping
+ABC,abc,Consumer Cyclical,Department Stores
+AESANDES,AES Andes,No disponible,No disponible
+ALMENDRAL,Almendral,Communication Services,Telecom Services
+AQUACHILE,Empresas AquaChile,No disponible,No disponible
+BANVIDA,Banvida,Financial Services,Insurance Brokers
+BESALCO,Besalco,Industrials,Engineering & Construction
+BICECORP,Bicecorp,Financial Services,Financial Conglomerates
+BLUMAR,Blumar,Consumer Defensive,Farm Products
+BOLSASTGO,"Bolsa de Comercio de Santiago, Bolsa de Valores",No disponible,No disponible
+CAMANCHACA,Camanchaca,Consumer Defensive,Farm Products
+CAMPOS,Sociedad de Inversiones Campos Chilenos,Consumer Defensive,Farm Products
+CAROZZI,Carozzi,Consumer Defensive,Packaged Foods
+CASABLANCA,Energía de Casablanca,Utilities,Utilities - Regulated Electric
+CEMENTOS,Cementos Bio Bio,Basic Materials,Building Materials
+CGE,Compañía General de Electricidad,Utilities,Utilities - Diversified
+CIC,Companias CIC,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+CINTAC,Cintac,Basic Materials,Steel
+COPEVAL,Compañía Agropecuaria Copeval,No disponible,No disponible
+COVADONGA,Inversiones Covadonga,No disponible,No disponible
+CRUZADOS,Cruzados SADP,Communication Services,Entertainment
+CUPRUM,Administradora de Fondos de Pensiones Cuprum,Financial Services,Asset Management
+EDELMAG,Empresa Eléctrica de Magallanes,Utilities,Utilities - Regulated Electric
+ELECMETAL,Compañía Electro Metalúrgica,Basic Materials,Steel
+EMBONOR-B,Coca-Cola Embonor,Consumer Defensive,Beverages - Non-Alcoholic
+EMILIANA,Viñedos Emiliana,Consumer Defensive,Beverages - Wineries & Distilleries
+ENAEX,Enaex,Basic Materials,Specialty Chemicals
+ENELGXCH,Enel Generación Chile,Utilities,Utilities - Renewable
+ENJOY,Enjoy,Consumer Cyclical,Resorts & Casinos
+ENLASA,Energía Latina,Utilities,Utilities - Independent Power Producers
+FEPASA,Ferrocarril del Pacífico,No disponible,No disponible
+FORUS,Forus,Consumer Cyclical,Apparel Retail
+FOSFOROS,Compañía Chilena de Fósforos,Basic Materials,Lumber & Wood Production
+GASCO,Empresas Gasco,Utilities,Utilities - Regulated Gas
+GRANADILLA,Granadilla Country Club,No disponible,No disponible
+HABITAT,Administradora de Fondos de Pensiones Habitat,Financial Services,Asset Management
+HIPERMARC,Hipermarc,Consumer Cyclical,Department Stores
+HITES,Empresas Hites,Consumer Cyclical,Department Stores
+IANSA,Empresas Iansa,Consumer Defensive,Confectioners
+ILC,Inversiones La Construcción,Financial Services,Insurance - Life
+INDISA,Instituto de Diagnóstico,Healthcare,Medical Care Facilities
+INFODEMA,Infodema,No disponible,No disponible
+INGEVEC,Ingevec,Real Estate,Real Estate - Development
+INVERCAP,Invercap,Basic Materials,Steel
+INVERNOVA,Invernova,Financial Services,Capital Markets
+IPAL,Ipal,Consumer Defensive,Packaged Foods
+LIPIGAS,Empresas Lipigas,Energy,Oil & Gas Refining & Marketing
+MANQUEHUE,Inmobiliaria Manquehue,Real Estate,Real Estate - Development
+MARINSA,Marítima de Inversiones,Industrials,Integrated Freight & Logistics
+MASISA,Masisa,Basic Materials,Lumber & Wood Production
+MELON,Melon,Basic Materials,Building Materials
+MOLLER,Empresa Constructora Moller y Pérez Cotapos,Industrials,Engineering & Construction
+MOLYMET,Molibdenos y Metales,Basic Materials,Other Industrial Metals & Mining
+NAVARINO,Navarino,Industrials,Marine Shipping
+NIBSA,Nibsa,Industrials,Building Products & Equipment
+NITRATOS,Nitratos de Chile,Financial Services,Capital Markets
+NTGCLGAS,Naturgy Chile Gas Natural,Utilities,Utilities - Diversified
+NUTRAVALOR,Inversiones Nutravalor,Consumer Defensive,Farm Products
+OXIQUIM,Oxiquim,Basic Materials,Chemicals
+PAZ,Paz Corp,Real Estate,Real Estate Services
+PEHUENCHE,Empresa Eléctrica Pehuenche,Utilities,Utilities - Renewable
+PLANVITAL,Administradora de Fondos de Pensiones PlanVital,Financial Services,Asset Management
+POLPAICO,Cemento Polpaico,No disponible,No disponible
+PROVIDA,Administradora de Fondos de Pensiones Provida,Financial Services,Asset Management
+PUNTILLA,Eléctrica Puntilla,No disponible,No disponible
+QUEMCHI,Quemchi,No disponible,No disponible
+QUILICURA,Quilicura,Industrials,Conglomerates
+SALFACORP,SalfaCorp,Industrials,Engineering & Construction
+SALMOCAM,Salmones Camanchaca,Consumer Defensive,Farm Products
+BSANTANDER,Banco Santander-Chile,Financial Services,Banks - Regional
+SCHWAGER,Schwager,Industrials,Engineering & Construction
+SECURITY,Grupo Security,Financial Services,Banks - Regional
+SIEMEL,Inversiones Siemel,Industrials,Conglomerates
+SIXTERRA,Inmobiliaria Sixterra,No disponible,No disponible
+SK,Sigdo Koppers,Industrials,Conglomerates
+SOCOVESA,Socovesa,Consumer Cyclical,Residential Construction
+SONDA,Sonda,Technology,Information Technology Services
+SOPROCAL,"Soprocal, Calerías e Industrias",No disponible,No disponible
+SOQUICOM,Soquimich Comercial,Basic Materials,Agricultural Inputs
